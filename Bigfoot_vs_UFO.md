@@ -17,3 +17,7 @@
 ![](images/Screen%20Shot%202020-11-20%20at%206.01.36%20PM.png)
 
 ![](images/code.png)
+
+''['god', 'moon', 'memphis', 'life', 'jesus', 'spirit', 'animals',
+        'words', '10', 'mind', 'event', 'help', 'english', 'world',
+        'people', 'good', 'earth', 'star', 'kind', 'time']''
