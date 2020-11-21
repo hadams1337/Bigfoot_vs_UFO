@@ -4,6 +4,8 @@
 
 ![](images/ufo_dates.jpg)
 
+![](images/dates.jpg)
+
 ![](images/ufo_graph.jpg)
 
 ![](images/Screen%20Shot%202020-11-20%20at%206.46.42%20PM.png)
