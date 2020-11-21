@@ -4,7 +4,7 @@
 
 ![](images/ufo_dates.jpg)
 
-![](images/date.png)
+![](images/date2.png)
 
 ![](images/ufo_graph.jpg)
 
